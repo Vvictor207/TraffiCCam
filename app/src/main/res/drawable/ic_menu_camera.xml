@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M12,2C8.13,2 5,5.13 5,8.5C5,10.61 6.4,12.38 8.5,13.34C9.57,14.03 10.89,14.68 12,14.68C13.11,14.68 14.43,14.03 15.5,13.34C17.6,12.38 19,10.61 19,8.5C19,5.13 15.87,2 12,2zM12,12.02C10.34,12.02 9,10.68 9,9.02C9,7.36 10.34,6.02 12,6.02C13.66,6.02 15,7.36 15,9.02C15,10.68 13.66,12.02 12,12.02z" />
+
+    <!-- Parte inferior del marcador -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M12,15.72C8.85,15.72 6.02,18.55 6.02,21.7C6.02,22.3 6.44,22.72 6.95,22.72H17.05C17.56,22.72 18.02,22.3 18.02,21.7C18.02,18.55 15.19,15.72 12,15.72z" />
+</vector>
